@@ -1,13 +1,13 @@
 # 通用许可协议
 
-## 版权所有 ©2021 James Clef <qwq233@qwq2333.top, qwq2333.top>
+## 版权所有 2022 James Clef <qwq233@qwq2333.top, qwq2333.top>
 
 版本 2 2022-04-09
 
-本协议证原始发布地址: [https://github,com/qwq233/license](https://github,com/qwq233/license) / [https://qwq2333.top/license-v2](https://qwq2333.top/license-v2)
+本协议证原始发布地址: [https://github.com/qwq233/license](https://github.com/qwq233/license) / [https://qwq2333.top/license-v2](https://qwq2333.top/license-v2)
 
 
-允许在其遵守 CC BY-NC-SA 4.0 协议的同时，每个人复制和分发此协议文档的逐字记录副本，且允许对其进行更改，但必须保留其版权信息与原作者。如果您提出申请特殊权限，协议作者可在其口头或书面授予任何人任何但不包括以盈利为目的的使用本协议的权利。
+允许在其遵守 CC BY-NC-SA 4.0 协议的同时，复制和分发此协议文档的逐字记录副本，且允许对其进行更改，但必须保留其版权信息与原作者。如果您提出申请特殊权限，协议作者可口头或书面授予任何人任何的使用本协议的权利。
 
 ## 正文
 
