@@ -28,49 +28,49 @@ you must destroy all copies of the work in your possession or control.
 
 1. **"This Agreement"** or **"The Agreement"** refers to the General License Agreement, Version 3.
 
-2. **"You"** refers to the individual or entity exercising rights granted under this General License Agreement. **"Your"
-   ** has a corresponding meaning.
+2. **"You"** refers to the individual or entity exercising rights granted under this General License Agreement.
+   **"Your"** has a corresponding meaning.
 
-3. **"Author"** or **"Author of this Work"** refers to the individual or organization authorized through this agreement
+4. **"Author"** or **"Author of this Work"** refers to the individual or organization authorized through this agreement
    and/or the individual or organization holding copyright over this work as defined by the Agreement on Trade-Related
    Aspects of Intellectual Property Rights.
 
-4. **"Agreement Author"** refers to the copyright holder of The Agreement, namely James Clef <qwq233@qwq2333.top,
+5. **"Agreement Author"** refers to the copyright holder of The Agreement, namely James Clef <qwq233@qwq2333.top,
    qwq2333.top>.
 
-5. **"This Work"** or **"Work"** refers to any copyrighted work under this agreement, such as source code.
+6. **"This Work"** or **"Work"** refers to any copyrighted work under this agreement, such as source code.
 
-6. **"Work Release URL"** refers to the unique URL(s) designated by the author for the initial or subsequent release of
+7. **"Work Release URL"** refers to the unique URL(s) designated by the author for the initial or subsequent release of
    this work.
 
-7. **"Modified Work"** refers to any reproduction, adaptation, or transformation of the whole or part of this work in a
+8. **"Modified Work"** refers to any reproduction, adaptation, or transformation of the whole or part of this work in a
    manner that requires copyright permission, excluding the creation of an identical copy. Such works are also referred
    to as **"derivative works"** or **"works based on"** this work.
 
-8. **"Modified Work Author"** refers to any individual or entity holding copyright for contributions made to the
+9. **"Modified Work Author"** refers to any individual or entity holding copyright for contributions made to the
    modified work under this General License Agreement.
 
-9. **"Distribution"** of the work refers to any actions involving the work that may make you directly or indirectly
+10. **"Distribution"** of the work refers to any actions involving the work that may make you directly or indirectly
    liable for infringement under applicable copyright laws, except for executing the work on a computer or modifying
    your private copy. Distribution includes, but is not limited to, copying, distributing (with or without
    modifications), publicly displaying, and other activities as defined by applicable laws in relevant jurisdictions.
 
-10. **"Non-commercial Use"** refers to uses primarily intended or directed not to gain commercial advantage or monetary
+11. **"Non-commercial Use"** refers to uses primarily intended or directed not to gain commercial advantage or monetary
     compensation. For the purposes of this agreement, exchanging this work for other works protected by copyright or
     similar rights in a digital file-sharing manner is considered non-commercial use, as long as the exchange does not
     directly or potentially involve payment for monetary compensation.
 
-11. **"Commercial Use"** refers to uses primarily intended or directed to gain commercial advantage or monetary
+12. **"Commercial Use"** refers to uses primarily intended or directed to gain commercial advantage or monetary
     compensation. Exchanging this work for other works protected by copyright or similar rights in a digital
     file-sharing manner is considered commercial use, as long as the exchange directly or potentially involves payment
     for monetary compensation.
 
-12. **"Source Code"** refers to all source code necessary to generate, install, and (for executable works) run the
+13. **"Source Code"** refers to all source code necessary to generate, install, and (for executable works) run the
     target code and modify the work, including scripts that control these activities. However, it does not include the
     system libraries of the work or general tools or publicly available free programs that are unmodified and not part
     of the work.
 
-13. **"Target Code"** refers to machine-readable code or code resembling machine language generated from the source code
+14. **"Target Code"** refers to machine-readable code or code resembling machine language generated from the source code
     of this work or the modified work. **"Compiled Work"** has the same meaning.
 
 ### 2. This agreement does not intend to diminish, restrict, or constrain your lawful use of this work based on the following legal provisions: fair use, the doctrine of exhaustion, and limitations on exclusive rights of copyright holders under copyright law or other relevant laws.
